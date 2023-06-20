@@ -1,4 +1,5 @@
-[![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LwphdzNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1468/1%2A-HtkHUxjLiK0tj6qOzdOrw.gif)
+https://res.cloudinary.com/practicaldev/image/fetch/s--LwphdzNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1468/1%2A-HtkHUxjLiK0tj6qOzdOrw.gif
+
 ### Hi there 👋, my name is ARNOLD!
 
 Dedicated and Driven IT Professional
