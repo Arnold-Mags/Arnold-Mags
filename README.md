@@ -1,8 +1,9 @@
-### Hi there 👋, my name is ARNOLD!
-#### Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is ARNOLD!
 
 Dedicated and Driven IT Professional
+
+#### Design and Development
 
 Skills: VB.net / JS / HTML / CSS / Graphics
 
