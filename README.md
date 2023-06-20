@@ -1,4 +1,4 @@
-https://res.cloudinary.com/practicaldev/image/fetch/s--LwphdzNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1468/1%2A-HtkHUxjLiK0tj6qOzdOrw.gif
+https://dribbble.com/shots/4502924-Python-developer-animation
 
 ### Hi there 👋, my name is ARNOLD!
 
